@@ -1,0 +1,14 @@
+
+
+Map Features:
+  Layers
+    Import Layers from diffrent sources
+    Custom Layers for drawing
+    Offline Cappability
+    Interaction with Databases
+
+
+Possebilitys:
+  OpenStreetMaps
+  OpenLayers 3
+  QGIS
